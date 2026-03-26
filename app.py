@@ -17,7 +17,7 @@ locations = data_columns[3:]   # first 3 are sqft, bath, bhk
 
 st.set_page_config(page_title="Bangalore House Price Prediction", layout="centered")
 
-st.title("🏠 Bangalore House Price Prediction")
+st.title("🏠 House Price Prediction")
 st.write("Predict house price using Machine Learning")
 
 # UI Inputs
